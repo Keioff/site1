@@ -1,4 +1,14 @@
-p {
+/*Use these marks for comments*/
+html {
+	font-size: 12px;
+	font-family: 'Nova Cut', cursive;
+}
+h1 {
+	color: green;
+	width: 300px;
+	border: 2px solid black;
+}
+a {
 	color: blue;
 }
 ol {
