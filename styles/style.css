@@ -1,32 +1,42 @@
 /*Use these marks for comments*/
+
 html {
 	font-family: 'Nova Cut', cursive;
 	font-size: 16px;
+	background-color: black;
 }
+
 h1 {
+	margin: 0;
+	padding: 10px 0;
 	color: green;
 	font-size: 28px;
+	text-shadow: 3px 4px 1px black;
 	text-align: center;
 	<!--width: 300px;-->
 	<!--border-align: center;--><!--These are out of order-->
 	<!--border: 2px solid black;-->
 }
+
 a {
 	color: blue;
 }
+
 ol, ul {
 	color: #706565;
 	font-size: 14px;
 	line-height: 2;
 	letter-spacing: 1px;
 }
-html {
-	background-color: black;
-}
+
 body {
 	width: 600px;
 	margin: 0 auto;
 	background-color: #EAEAEA;
 	padding: 0 20px 20px 20px;
 	border: 4px solid green;
+}
+img {
+	display: block;
+	margin: 0 auto;
 }
